@@ -1,0 +1,1 @@
+This is a set of pages designed to display recipes in HTML only. It is for practicing my HTML skills.
